@@ -1,15 +1,15 @@
 ## Description of Files
 
-1. Problem.txt 
+2. Problem.txt 
    This file contains the detailed description of the problem, outlining the entities, attributes, and relationships required for managing a town's bus network system. The rephrased problem highlights the transportation system's key components, including bus companies, routes, bus stops, passengers, trips, and buses.
 
-2. Entity Relationship Diagram.png 
+3. Entity Relationship Diagram.png 
    This is an image representation of the Entity-Relationship Diagram (ERD) developed for the problem. It visually illustrates the relationships among the entities and the attributes associated with each entity.
 
-3. Database Development.sql
+4. Database Development.sql
    This file contains the SQL scripts used to create and populate the database in MS SQL. It includes the SQL statements for creating tables, defining relationships with primary and foreign keys, and inserting sample data for the entities.
 
-4. Queries.sql
+5. Queries.sql
    This file contains sample complex SQL queries that were used to test the database. These queries involve multiple joins and demonstrate how the database can handle sophisticated operations to extract meaningful insights.
 
 
