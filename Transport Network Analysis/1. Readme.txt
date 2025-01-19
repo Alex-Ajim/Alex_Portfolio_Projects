@@ -1,1 +1,23 @@
-All filess in this folder are the input and output files of the Transport Network Analysis problem.
+## Description of Files
+
+1. Problem.txt 
+   This file contains the detailed description of the problem, outlining the entities, attributes, and relationships required for managing a town's bus network system. The rephrased problem highlights the transportation system's key components, including bus companies, routes, bus stops, passengers, trips, and buses.
+
+2. Entity Relationship Diagram.png 
+   This is an image representation of the Entity-Relationship Diagram (ERD) developed for the problem. It visually illustrates the relationships among the entities and the attributes associated with each entity.
+
+3. Database Development.sql
+   This file contains the SQL scripts used to create and populate the database in MS SQL. It includes the SQL statements for creating tables, defining relationships with primary and foreign keys, and inserting sample data for the entities.
+
+4. Queries.sql
+   This file contains sample complex SQL queries that were used to test the database. These queries involve multiple joins and demonstrate how the database can handle sophisticated operations to extract meaningful insights.
+
+
+## Summary of Work Done
+
+As part of the SQL implementation for the Transport Network Analysis:
+
+1. An Entity-Relationship Diagram (ERD) was developed to model the problem.
+2. The ERD was translated into a relational schema, with all entities and their relationships clearly defined using primary and foreign keys.
+3. A database was developed in MS SQL based on the relational schema. Tables were created for all entities, and sample data was inserted for testing purposes.
+4. Complex SQL queries involving multiple joins were designed and executed to test the functionality of the database, verifying its ability to handle real-world queries and ensure data consistency.
