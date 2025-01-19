@@ -1,0 +1,7 @@
+In a town's transportation system, several bus companies manage operations. Each company has a name, address, phone number, and email address. These companies operate multiple routes, with each route managed exclusively by a single company. A route is identified by its name and length.
+
+Routes consist of multiple bus stops, and each stop is characterized by its address, type, and geographical coordinates. Bus stops can be shared across different routes.
+
+Passengers who use the unified ticketing app to purchase tickets are also part of the system. For each passenger, details such as their name, email address, phone number, and discount eligibility are recorded. Additionally, passenger trips are tracked, including the trip date, time, tariff, and the start and end bus stops.
+
+The fleet of buses is also managed in the system, with each bus identified by its model, mileage, and year of manufacture. Buses can serve multiple routes, and the start and end dates of service for each route are also documented.
